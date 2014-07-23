@@ -1,0 +1,18 @@
+C:\Users\jbooth\AppData\Local\Temporary Projects\RegexTester\bin\Debug\RegexTester.exe
+C:\Users\jbooth\AppData\Local\Temporary Projects\RegexTester\bin\Debug\RegexTester.pdb
+C:\Users\jbooth\AppData\Local\Temporary Projects\RegexTester\obj\x86\Debug\RegexTester.MainForm.resources
+C:\Users\jbooth\AppData\Local\Temporary Projects\RegexTester\obj\x86\Debug\RegexTester.Properties.Resources.resources
+C:\Users\jbooth\AppData\Local\Temporary Projects\RegexTester\obj\x86\Debug\RegexTester.csproj.GenerateResource.Cache
+C:\Users\jbooth\AppData\Local\Temporary Projects\RegexTester\obj\x86\Debug\RegexTester.exe
+C:\Users\jbooth\AppData\Local\Temporary Projects\RegexTester\obj\x86\Debug\RegexTester.pdb
+C:\jdb\RegexTester\RegexTester\obj\x86\Debug\RegexTester.exe
+C:\jdb\RegexTester\RegexTester\obj\x86\Debug\RegexTester.pdb
+C:\JDB\Books\RegexTester\obj\x86\Debug\RegexTester.exe
+C:\JDB\Books\RegexTester\obj\x86\Debug\RegexTester.pdb
+C:\JDB\Books\RegexTester\bin\Debug\RegexTester.exe
+C:\JDB\Books\RegexTester\bin\Debug\RegexTester.pdb
+C:\JDB\Books\RegexTester\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\JDB\Books\RegexTester\obj\x86\Debug\RegexTester.MainForm.resources
+C:\JDB\Books\RegexTester\obj\x86\Debug\RegexTester.Properties.Resources.resources
+C:\JDB\Books\RegexTester\obj\x86\Debug\GenerateResource.read.1.tlog
+C:\JDB\Books\RegexTester\obj\x86\Debug\GenerateResource.write.1.tlog

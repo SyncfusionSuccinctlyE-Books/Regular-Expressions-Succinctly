@@ -1,0 +1,9 @@
+c:\jdb\books\RegexTesterII\RegexTesterII\bin\Debug\RegexTesterII.exe
+c:\jdb\books\RegexTesterII\RegexTesterII\bin\Debug\RegexTesterII.pdb
+c:\jdb\books\RegexTesterII\RegexTesterII\obj\x86\Debug\ResolveAssemblyReference.cache
+c:\jdb\books\RegexTesterII\RegexTesterII\obj\x86\Debug\RegexTesterII.MainForm.resources
+c:\jdb\books\RegexTesterII\RegexTesterII\obj\x86\Debug\RegexTesterII.Properties.Resources.resources
+c:\jdb\books\RegexTesterII\RegexTesterII\obj\x86\Debug\GenerateResource.read.1.tlog
+c:\jdb\books\RegexTesterII\RegexTesterII\obj\x86\Debug\GenerateResource.write.1.tlog
+c:\jdb\books\RegexTesterII\RegexTesterII\obj\x86\Debug\RegexTesterII.exe
+c:\jdb\books\RegexTesterII\RegexTesterII\obj\x86\Debug\RegexTesterII.pdb
