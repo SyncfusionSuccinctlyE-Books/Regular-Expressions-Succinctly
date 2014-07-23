@@ -1,0 +1,1 @@
+Regex tester program code for the *Regular Expressions Succinctly* e-book from Syncfusion.
