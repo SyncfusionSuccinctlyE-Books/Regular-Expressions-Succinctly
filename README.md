@@ -1,5 +1,5 @@
 # Regular Expressions Succinctly
-This is the regex tester program code for [*Regular Expressions Succinctly*](https://www.syncfusion.com/ebooks/regularexpressions) by Joe Booth. Published by Syncfusion.
+This is the regex tester program code for [*Regular Expressions Succinctly*](https://www.syncfusion.com/ebooks/regularexpressions) by Joseph D. Booth. Published by Syncfusion.
 
 [![cover](https://github.com/SyncfusionSuccinctlyE-Books/Regular-Expressions-Succinctly/blob/master/cover.png)](https://www.syncfusion.com/ebooks/regularexpressions)
 
